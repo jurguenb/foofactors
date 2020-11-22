@@ -1,4 +1,7 @@
 ^foofactors\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+<<<<<<< HEAD
 ^README\.Rmd$
+=======
+>>>>>>> d6f59c4266fffd364b5e1d40d95268796c058309
