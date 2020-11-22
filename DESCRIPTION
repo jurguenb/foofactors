@@ -15,5 +15,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Suggests: 
     testthat
+<<<<<<< HEAD
 Imports: 
     forcats
+=======
+>>>>>>> d6f59c4266fffd364b5e1d40d95268796c058309
